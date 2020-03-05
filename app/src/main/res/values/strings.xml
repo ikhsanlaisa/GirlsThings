@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Girls Things</string>
+    <string name="text_login">Login In</string>
+    <string name="text_register">Register</string>
+    <string name="text_campaign">Are You Ready To Enjoy a Whole New Life And Style Without Limit? Lets go!</string>
+    <string name="text_welcome">Welcome To The Girls Things!</string>
+    <string name="policy_text">By logging in or registering, i agree to our</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="and">And</string>
+    <string name="register_fill_text">Please fill in few details below</string>
+    <string name="sign_in_phone_hint">Phone Number</string>
+    <string name="login_fill_text">Enter Your registered phone number to log in</string>
+    <string name="sign_up_full_name_hint">Full Name</string>
+    <string name="sign_up_email_hint">Email</string>
+    <string name="text_continue">Continue</string>
+    <string name="verification_text">Verification code sent!</string>
+    <string name="verification_desc">Enter the code we sent via SMS to your registered phone number +62 82270014127</string>
+    <string name="login_register_text">Login / Register</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="inbox">Inbox</string>
+    <string name="cart">Cart</string>
+    <string name="transaction">Trasaction</string>
+</resources>
