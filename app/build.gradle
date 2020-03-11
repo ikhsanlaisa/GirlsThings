@@ -30,8 +30,11 @@ dependencies {
     // Otp View Library
     implementation 'com.github.msayan:otp-view:v1.0.2'
 
-    // Slider
-    implementation 'com.github.HamidrezaAmz:AndroidImageSlider:v1.0.8'
+//    // Slider
+//    implementation 'com.github.HamidrezaAmz:AndroidImageSlider:v1.0.8'
+
+    // Image Converter
+    implementation 'com.squareup.picasso:picasso:2.71828'
 
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     testImplementation 'junit:junit:4.12'
